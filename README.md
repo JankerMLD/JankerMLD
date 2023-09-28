@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JankerMLD
+- 👀 I’m interested in ML and CS
+- 🌱 I’m currently learning Python, SQL, Numpy, Pandas, Regex
+- 💞️ I’m looking to collaborate on any ML related project
+- 📫 How to reach me serebr.s2012work@gmail.com
